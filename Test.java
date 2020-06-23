@@ -9,7 +9,7 @@ class test{
                   int HOUR=8;
                   int total_sal;
                   total_sal=WAGE_PER_HOUR*HOUR;
-                  System.out.println("Total Salary of full day is : "+total_sal);
+                  System.out.println(" Total Salary of full day is : "+total_sal);
                }
                else{
                   System.out.println("Absent !! ");
